@@ -1,0 +1,3 @@
+/Users/grokmachine/Documents/Unreal Projects/UnrealSniper/Source/UnrealSniper/UnrealSniper.Build.cs
+/Users/grokmachine/Documents/Unreal Projects/UnrealSniper/Source/UnrealSniper.Target.cs
+/Users/grokmachine/Documents/Unreal Projects/UnrealSniper/Source/UnrealSniperEditor.Target.cs
